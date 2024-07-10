@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PJAC2R30
+- 👀 I’m interested in programming, blockchain, network, low level coding.
+- 🌱 I’m currently learning solidity and node.js .
+- 💞️ I’m not looking to collaborate right now.  
+- 📫 How to reach me githubPage.
