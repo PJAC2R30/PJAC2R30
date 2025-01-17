@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a learner
-- 👀 I’m interested in programming, blockchain, network, low level programming.
-- 🌱 I’m currently learning node.js .
-- 💞️ I’m not looking to collaborate right now.  
+-  I’m interested in ai, network, low level programming.
+-  I’m currently learning node.js .
+-  I’m not looking to collaborate right now.  
 - 📫 How to reach me : githubPage.
